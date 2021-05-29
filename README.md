@@ -1,7 +1,8 @@
-# Millennials to Snake People
+# Haachama language - forked from Millennials to Snake People
 
-Browser extension that reveals the *real* truth behind Millennials.
+Haato = Haachama, therefore, to = chama.
 
+Forked from Millennials to Snake People, and everything below this line is untouched.
 
 ## Installation
 
