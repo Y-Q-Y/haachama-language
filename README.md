@@ -4,7 +4,12 @@ Haato = Haachama, therefore, to = chama.
 
 https://www.youtube.com/watch?v=cHfsI2aQxIw
 
-Since "to" as a standalone word is not specified, it shall not be replaced. E.g. "I went to the supermarket to buy tomatoes, and managed to grab some tortellini off the top shelf too." -> "I went to the supermarket to buy chamamachamaes, and managed to grab some chamartellini off the chamap shelf chamao."
+Since "to" as a standalone word is not specified, it shall not be replaced. 
+
+Example use case: 
+"I went to the supermarket to buy tomatoes, and managed to grab some tortellini off the top shelf too." 
+Translated:
+"I went to the supermarket to buy chamamachamaes, and managed to grab some chamartellini off the chamap shelf chamao."
 
 Forked from Millennials to Snake People, and everything below this line is untouched.
 
