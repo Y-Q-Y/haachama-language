@@ -1,1 +1,1 @@
-Please review the [guidelines for contributing](https://github.com/ericwbailey/millennials-to-snake-people/blob/master/CONTRIBUTING.md) to this repository.
+Unfortunately, I might not be able to review issues and pull requests too much due to other commitments (such as watching streams)
