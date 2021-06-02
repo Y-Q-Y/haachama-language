@@ -22,13 +22,13 @@ function handleText(textNode) {
 function replaceText(v)
 {
     // lower case
-    v = v.replace(/((to)+)(?<!(\bto\b))/g,"chama")
+    v = v.replace(/((to)+)(?<!(\bto\b))(?![^{]*})/g,"chama")
     
     // Caps first to Caps first
-    v = v.replace(/((To)+)(?<!(\bTo\b))/g,"Chama")
+    v = v.replace(/((To)+)(?<!(\bTo\b))(?![^{]*})/g,"Chama")
     
     // All caps to all caps
-    v = v.replace(/((TO)+)(?<!(\bTO\b))/g,"CHAMA")
+    v = v.replace(/((TO)+)(?<!(\bTO\b))(?![^{]*})/g,"CHAMA")
 
     return v;
 }
